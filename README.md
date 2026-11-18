@@ -1,2 +1,1 @@
-# dynamic-protection-floquet-toy
-Dimensionless open-quantum-system toy solver exploring Floquet coherence preservation (Project Dynamic Protection).
+https://giveth.io/project/dynamic-protection-quantum-co2-decomposition-poc
