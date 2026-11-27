@@ -5,6 +5,8 @@ An open-source, dimensionless computational physics prototype exploring how peri
 > **Scope & IP Notice:** This public repository provides general, dimensionless open-quantum-system numerical benchmarks and educational toy models (compatible with Python / JAX / QuTiP workflows). Specific industrial frequency recipes, chemical parameters, and hardware reactor geometries remain proprietary for Phase 2 commercialization.
 ## Benchmark Result (`t = 60 T₀`)
 ![Benchmark Plot](dynamic_protection_poc_v2.png)
+## resonance Sweep 
+(resonance_sweep_poc.png)
 ## Key Features (Phase 1 Prototype)
 - **Dimensionless Lindblad Master Equation Solver:** Evaluates coherence lifetime ($\rho_{01}$) under thermal dephasing and relaxation noise.
 - **Floquet Periodic Driving Comparison:** Compares unmodulated decay vs. resonant dynamic stabilization.
