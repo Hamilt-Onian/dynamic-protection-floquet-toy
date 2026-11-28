@@ -4,7 +4,7 @@ An open-source, dimensionless computational physics prototype exploring how peri
 
 > **Scope & IP Notice:** This public repository provides general, dimensionless open-quantum-system numerical benchmarks and educational toy models (compatible with Python / JAX / QuTiP workflows). Specific industrial frequency recipes, chemical parameters, and hardware reactor geometries remain proprietary for Phase 2 commercialization.
 ## Benchmark Result (`t = 60 T₀`)
-![Benchmark Plot](dynamic_protection_poc_v2.png)
+![Benchmark Plot](dynamic_protection_poc.png)
 ## Resonance Sweep 
 ![Resonance_Sweep](resonance_sweep_poc.png)
 ## Many-Body Nucleon Scaling
