@@ -7,6 +7,8 @@ An open-source, dimensionless computational physics prototype exploring how peri
 ![Benchmark Plot](dynamic_protection_poc_v2.png)
 ## Resonance Sweep 
 ![Resonance_Sweep](resonance_sweep_poc.png)
+## Many-Body Nucleon Scaling
+![Many-Body Nucleon Scaling](nucleon_scaling_poc.png)
 ## Key Features (Phase 1 Prototype)
 - **Dimensionless Lindblad Master Equation Solver:** Evaluates coherence lifetime ($\rho_{01}$) under thermal dephasing and relaxation noise.
 - **Floquet Periodic Driving Comparison:** Compares unmodulated decay vs. resonant dynamic stabilization.
